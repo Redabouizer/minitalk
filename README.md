@@ -1,10 +1,5 @@
 # minitalk
 1337
-# Installation
-
-```
-git clone https://github.com/ThibaudM13/minitalk-Tester.git
-```
 
 # Preparation and execution
 
